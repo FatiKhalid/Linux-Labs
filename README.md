@@ -20,7 +20,8 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
 ### 3. Lab Proof
 
 **SSH Terminal Access:**
-![SSH Terminal](lab1-ssh.png)
+![SSH Terminal]
+(lab1-ssh.png)
 
 **Manual Page Exploration (`man man`):**
 ![Linux Man Page Output](lab1-man-page.png)
