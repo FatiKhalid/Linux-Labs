@@ -19,8 +19,12 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
 
 ### 3. Lab Proof
 
-**SSH Terminal Access:**
-![SSH Terminal](lab1-ssh.png)
+<p>
+  <b>SSH Terminal Access:</b><br>
+  <img src="YOUR_SSH_IMAGE_NAME.png" width="600" alt="SSH Terminal">
+</p>
 
-**Manual Page Exploration (`man man`):**
-![Linux Man Page Output](lab1-man-page.png)
+<p>
+  <b>Manual Page Exploration (<code>man man</code>):</b><br>
+  <img src="YOUR_MAN_PAGE_IMAGE_NAME.png" width="600" alt="Man Page Output">
+</p>
