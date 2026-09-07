@@ -58,7 +58,7 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
 <p>
   <b>System Diagnostics, User Inspection & Timezone/Calendar Commands:</b><br>
   <!-- Drag and drop your terminal output screenshot directly below this line -->
-</p><img width="988" height="290" alt="Screenshot 2026-09-07 000957" src="https://github.com/user-attachments/assets/2d631094-b3e2-4ac2-a0d9-3eeb82328e99" />
+</p><img width="818" height="1067" alt="Screenshot 2026-09-07 000809" src="https://github.com/user-attachments/assets/3acde06c-a278-4fb0-abbb-e5073f273905" />
 
 
 
@@ -67,4 +67,5 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
   <b>History Search and Event Designators (!!):</b><br>
   <!-- Drag and drop your history/repeat command screenshot directly below this line -->
 </p>
-<img width="988" height="290" alt="Screenshot 2026-09-07 000957" src="https://github.com/user-attachments/assets/2f977ef0-b0ac-4e4c-ba09-426c43af578c" />
+
+<img width="988" height="290" alt="Screenshot 2026-09-07 000957" src="https://github.com/user-attachments/assets/931e68ad-530a-4e0c-93cc-45a8d3374a91" />
