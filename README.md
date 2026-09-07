@@ -21,10 +21,10 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
 
 <p>
   <b>SSH Terminal Access:</b><br>
-  <img src="lab1-ssh.png" width="600" alt="SSH Terminal">
-</p>
+ <img width="796" height="508" alt="lab1-ssh png" src="https://github.com/user-attachments/assets/0eb83208-fb01-4775-8c09-cac430b258d1" />
+
 
 <p>
   <b>Manual Page Exploration (man man):</b><br>
-  <img src="lab1-man-page.png" width="600" alt="Man Page Output">
-</p>
+<img width="795" height="1072" alt="lab1-man-page png" src="https://github.com/user-attachments/assets/07896565-b527-46f0-a036-96fd20438b1f" />
+
