@@ -26,5 +26,5 @@ Hands-on system administration, terminal command notes, and lab practice at **Pe
 
 <p>
   <b>Manual Page Exploration (man man):</b><br>
-  <img src="manman.png" width="600" alt="Man Page Output">
+  <img src="lab1-man-page.png" width="600" alt="Man Page Output">
 </p>
